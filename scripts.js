@@ -210,10 +210,10 @@ items[25] = {
 };
 
 items[26] = {
-    src: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/GN-z11.png/240px-GN-z11.png",
-    alt: "GN-z11",
-    distance: 32,
-    text: "The furthest thing in the universe that we have discovered and verified so far is a galaxy named <b>GN-z11</b>, at a distance of approximately <b>32 billion light-years</b>. GN-z11 is so far away that we are observing it as it existed relatively shortly after the Big Bang.",
+    src: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Icarus.png/240px-Icarus.png",
+    alt: "Icarus",
+    distance: 90,
+    text: "Normally, the astronomical obejcts that can be detected at this range are on the scale of whole galaxies. However, we were able to observe one individual star named <b>Icarus</b> in this region, at least a hundred times more distant than the next-furthest non-supernova star observed.<br><br>Icarus was visible only because it was magnified more than 2000 times by the lensing effect - a massive object between Icarus and us bends the spacetime around it, causing the light from Icarus to bend around the object on its way to us, just as light bends through an ordinary lens. Like a magnifying glass, this makes Icarus look much bigger, and so visible from Earth. Icarus is about <b>9 billion light-years</b> away.",
     ruler: "10 billion light-years",
 };
 
