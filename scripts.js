@@ -213,7 +213,7 @@ items[26] = {
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Icarus.png/240px-Icarus.png",
     alt: "Icarus",
     distance: 90,
-    text: "Normally, the astronomical obejcts that can be detected at this range are on the scale of whole galaxies. However, we were able to observe one individual star named <b>Icarus</b> in this region, at least a hundred times more distant than the next-furthest non-supernova star observed.<br><br>Icarus was visible only because it was magnified more than 2000 times by the lensing effect - a massive object between Icarus and us bends the spacetime around it, causing the light from Icarus to bend around the object on its way to us, just as light bends through an ordinary lens. Like a magnifying glass, this makes Icarus look much bigger, and so visible from Earth. Icarus is about <b>9 billion light-years</b> away.",
+    text: "Normally, the astronomical objects that can be detected at this range are on the scale of whole galaxies. However, we were able to observe one individual star named <b>Icarus</b> in this region, which is at least a hundred times more distant than the next-furthest non-supernova star observed.<br><br>Icarus was visible only because it was magnified more than 2000 times by the lensing effect: a massive object between Icarus and us bent the spacetime around itself, causing the light from Icarus to also bend around the object on its way to us, just as light bends through an ordinary lens. As with a magnifying glass, this makes Icarus look much bigger, hence visible from Earth. Icarus is about <b>9 billion light-years</b> away.",
     ruler: "10 billion light-years",
 };
 
