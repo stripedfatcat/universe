@@ -1,5 +1,6 @@
 # How big is the universe?
-#### Video Demo:  <URL HERE>
+#### Video Demo:
+https://youtu.be/D7xvAxcQzkw
 #### Description: 
   This is my final project for the CS50x 2021 course. It is a visualisation of the size of the observable universe, starting by visualising an object that is a metre long, using that to visualise another object that is ten metres long, then a hundred, a thousand, etc., until we reach the size of the universe.
   
@@ -21,7 +22,7 @@
   
   Finally, this project is directly inspired by, and at times quotes and borrows from, the fantastic _You Are Here: A Portable History of the Universe_, by Christopher Potter. Other sources are as follows, arranged by item number.
   
-#### Text sources
+#### Text sources:
   This list includes only the sources I directly quoted or paraphrased, and is a fraction of the many more that helped me understand what on Earth they were talking about, or to corroborate the vastly ranging numbers at times. I used Wikipedia by default for my sanity given the breadth of topics, although the secondary sources in each page would be the actual source.
 1. https://www.nature.org/en-us/get-involved/how-to-help/animals-we-protect/african-bush-elephant/
 2. https://www.livescience.com/supersaurus-longest-dinosaur-on-record/
@@ -51,7 +52,7 @@
 26. https://en.wikipedia.org/wiki/MACS_J1149_Lensed_Star_1, https://en.wikipedia.org/wiki/Gravitational_lens
 27. https://en.wikipedia.org/wiki/Observable_universe, https://en.wikipedia.org/wiki/Universe
   
-#### Image sources 
+#### Image sources:
   All images are free content from Wikimedia Commons.
 1. https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Male_African_Elephant_After_Mud_Bath_2019-07-25.jpg/640px-Male_African_Elephant_After_Mud_Bath_2019-07-25.jpg
 2. https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Supersaurus_dinosaur.png/640px-Supersaurus_dinosaur.png
