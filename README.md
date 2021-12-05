@@ -1,9 +1,9 @@
 # How big is the universe?
 #### Video Demo:  <URL HERE>
 #### Description: 
-  This is my final project for the CS50x 2021 course. 
+  This is my final project for the CS50x 2021 course. It is a visualisation of the size of the observable universe, starting by visualising an object that is a metre long, using that to visualise another object that is ten metres long, then a hundred, a thousand, etc., until we reach the size of the universe.
   
-  It is a tribute to the breathtaking nature and scale of cosmology, a subject I love but have trouble wrapping my head around. As the numbers and zeros grow, everything becomes so abstract that it is hard to imagine just how big or far away anything is. This project takes a stab at visualising that abstraction.
+  The project is a tribute to the breathtaking nature and scale of cosmology, a subject I love but have trouble wrapping my head around. As the numbers and zeros grow, everything becomes so abstract that it is hard to appreciate, or even comprehend, just how big or far away anything is. This project takes a stab at visualising that abstraction.
   
   There are three files in this project:
   
@@ -78,6 +78,6 @@
 23. https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Andromeda_galaxy.png/240px-Andromeda_galaxy.png
 24. https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Virgo_cluster.png/240px-Virgo_cluster.png
 25. https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Shapley_supercluster.png/240px-Shapley_supercluster.png
-26. https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/GN-z11.png/240px-GN-z11.png
+26. https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Icarus.png/240px-Icarus.png
 27. 
 
