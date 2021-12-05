@@ -1,0 +1,68 @@
+h2 {
+    font-family: "Courier New", monospace;
+    font-weight: bold;
+}
+
+table {
+    table-layout: fixed;
+    width: 100%;
+}
+
+#ruler_markings_start {
+    border-right: 1px solid;
+    border-bottom: 1px solid;
+    border-left: 1px solid;
+}
+
+#ruler_markings_remaining {
+    border-right: 1px solid;
+    border-bottom: 1px solid;
+}
+
+#ruler_text {
+    vertical-align: top;
+    text-align: center;
+    font-size: x-small;
+    font-family: "Courier New", monospace;
+}
+
+#small_img {
+   border-radius: 3px;
+}
+
+#large_img {
+   border-radius: 10px;
+}
+
+#pin_img {
+    width: 5%;
+    margin: 0 0 0 -2.5%;    /* top right bottom left */
+    display: inline-block;
+}
+
+#near_img {
+    border-radius: 3px;
+}
+
+#far_img {
+    border-radius: 5px;
+    width: 10%;
+}
+
+#line_break {
+    margin: 1%;
+}
+
+#text {
+    font-family: "Courier New", monospace;
+    text-align: justify;
+}
+
+button {
+    font-family: "Courier New", monospace;
+    margin: 1%;
+}
+
+#footer {
+    text-align: center;
+}
